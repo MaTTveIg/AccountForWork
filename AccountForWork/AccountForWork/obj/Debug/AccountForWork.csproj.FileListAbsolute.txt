@@ -1,0 +1,10 @@
+D:\code\project\AccountForWork\AccountForWork\bin\Debug\AccountForWork.exe.config
+D:\code\project\AccountForWork\AccountForWork\bin\Debug\AccountForWork.exe
+D:\code\project\AccountForWork\AccountForWork\bin\Debug\AccountForWork.pdb
+D:\code\project\AccountForWork\AccountForWork\obj\Debug\AccountForWork.csproj.AssemblyReference.cache
+D:\code\project\AccountForWork\AccountForWork\obj\Debug\AccountForWork.Form1.resources
+D:\code\project\AccountForWork\AccountForWork\obj\Debug\AccountForWork.Properties.Resources.resources
+D:\code\project\AccountForWork\AccountForWork\obj\Debug\AccountForWork.csproj.GenerateResource.cache
+D:\code\project\AccountForWork\AccountForWork\obj\Debug\AccountForWork.csproj.CoreCompileInputs.cache
+D:\code\project\AccountForWork\AccountForWork\obj\Debug\AccountForWork.exe
+D:\code\project\AccountForWork\AccountForWork\obj\Debug\AccountForWork.pdb
